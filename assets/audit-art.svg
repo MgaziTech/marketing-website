@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750">
+<rect width="1200" height="750" fill="#EDE0D1"/>
+<rect x="95" y="95" width="1010" height="560" rx="18" fill="#FFFDF8"/>
+<rect x="150" y="155" width="420" height="28" rx="14" fill="#171514"/>
+<rect x="150" y="215" width="760" height="12" rx="6" fill="#C8BBAE"/>
+<rect x="150" y="245" width="620" height="12" rx="6" fill="#D9CDC1"/>
+<rect x="150" y="325" width="250" height="220" rx="12" fill="#171514"/>
+<rect x="430" y="325" width="250" height="220" rx="12" fill="#B3262E"/>
+<rect x="710" y="325" width="340" height="42" rx="21" fill="#E6D8C8"/>
+<rect x="710" y="390" width="250" height="18" rx="9" fill="#C8BBAE"/>
+<rect x="710" y="425" width="290" height="18" rx="9" fill="#D9CDC1"/>
+<rect x="710" y="460" width="210" height="18" rx="9" fill="#D9CDC1"/>
+<text x="155" y="615" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" fill="#171514">THE VANTA AUDIT</text>
+</svg>

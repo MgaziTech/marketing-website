@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 900">
+<defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E8D8C6"/><stop offset=".52" stop-color="#F6EEE4"/><stop offset="1" stop-color="#C7B2A1"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="1000" height="900" fill="#F2E7DA"/>
+<circle cx="790" cy="180" r="250" fill="#B3262E" opacity=".92" filter="url(#blur)"/>
+<circle cx="280" cy="700" r="300" fill="#1B1918" opacity=".92" filter="url(#blur)"/>
+<path d="M110 180 L560 80 L880 380 L510 690 L110 520 Z" fill="url(#g)" opacity=".9"/>
+<path d="M210 250 L580 150 L760 330 L470 570 L210 470 Z" fill="none" stroke="#171514" stroke-width="3" opacity=".75"/>
+<text x="95" y="795" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#FFFDF8">STRATEGY / CREATIVE / GROWTH</text>
+</svg>
